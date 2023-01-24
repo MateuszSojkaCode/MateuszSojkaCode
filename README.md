@@ -1,8 +1,12 @@
 <h1 align="center">Hi there 👋, My name is Mateusz</h1>
 
-<div align="center">
-  
-  <h2 align="center">Technologies I am using</h2>  
+<h2 align="center">About me</h2>
+<p>I am selftaught frontend developer, I went through several Udemy courses where I learn technologies like <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-css3-1572B6?&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-javascript-F7DF1E?&logo=javascript&logoColor=black" />, covered topics on UI/UX, SEO for Web developers and Responsive Web Design (RWD)
+
+<div align="center">  
+<h2 align="center">Technologies I am using</h2>  
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,7 +20,7 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
-<a href="google.pl" target="_blank">yolo</a>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszSojkaCode&layout=compact&theme=radical" width="500" />
