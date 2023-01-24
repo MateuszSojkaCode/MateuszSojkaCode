@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, My name is Mateusz
+<div align="center">
+<a href="www.linkedin.com/in/mateusz-sojka-459982255">Linkedin profile</a>
 <!--
 **MateuszSojkaCode/MateuszSojkaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
