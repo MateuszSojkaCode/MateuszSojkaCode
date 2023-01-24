@@ -38,6 +38,10 @@ In my free time besides coding I like to draw, mostly characters from video game
   <h3 align="center">Tropical paradise</h3>
   <div align="center">
     <img src="https://github.com/MateuszSojkaCode/Tropical-Paradise/blob/master/src/img/TR_thumbnail.jpg" width="100%">
+    <a href="https://github.com/MateuszSojkaCode/Tropical-Paradise">code</a>
+    <span> | </span>
+    <a href="https://mateuszsojkacode.github.io/Tropical-Paradise/" target="blank">site</a>
+    
   </div>  
   
  </td><td valign="top" width="50%">  
