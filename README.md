@@ -40,15 +40,18 @@ In my free time besides coding I like to draw, mostly characters from video game
     <img src="https://github.com/MateuszSojkaCode/Tropical-Paradise/blob/master/src/img/TR_thumbnail.jpg" width="100%">
     <a href="https://github.com/MateuszSojkaCode/Tropical-Paradise">code</a>
     <span> | </span>
-    <a href="https://mateuszsojkacode.github.io/Tropical-Paradise/" target="blank">site</a>
+    <a href="https://mateuszsojkacode.github.io/Tropical-Paradise/">site</a>
     
   </div>  
   
  </td><td valign="top" width="50%">  
     
-  <h3 align="center">Tropical paradise</h3>
+  <h3 align="center">Amber Watch</h3>
   <div align="center">
     <img src="https://github.com/MateuszSojkaCode/AmberWatch/blob/master/src/img/AmberWatch-ThumNail.jpg" width="100%">
+    <a href="https://github.com/MateuszSojkaCode/AmberWatch">code</a>
+    <span> | </span>
+    <a href="https://mateuszsojkacode.github.io/AmberWatch/">site</a>
   </div>  
    
  </tr></tr></table> 
