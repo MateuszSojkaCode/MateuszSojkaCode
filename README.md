@@ -3,7 +3,7 @@
 <h2 align="center">About me</h2>
 <p>I am selftaught frontend developer, I went through several Udemy courses where I learn technologies like <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-css3-1572B6?&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?&logo=javascript&logoColor=black" />, covered topics on UI/UX, SEO for Web developers and Responsive Web Design (RWD)
+<img src="https://img.shields.io/badge/-javascript-F7DF1E?&logo=javascript&logoColor=black" />, covered topics on UI/UX, SEO for Web developers and Responsive Web Design (RWD). But I'm aweare that there is still a lot to learn. Currenlty I looking for my first position as a Fron-end Developer
 
 <div align="center">  
 <h2 align="center">Technologies I am using</h2>  
