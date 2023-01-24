@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, My name is Mateusz</h1>
 
+<div align="center">
 <a href="www.linkedin.com/in/mateusz-sojka-459982255">Linkedin profile</a>
-<a href="www.linkedin.com/in/mateusz-sojka-459982255" align="center"><img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hashnode" /></a>
+<a href="www.linkedin.com/in/mateusz-sojka-459982255"<img src="https://img.shields.io/badge/Linkedin-2962FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hashnode" /></a>
+</div>
 
 <!--
 **MateuszSojkaCode/MateuszSojkaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
