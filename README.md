@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, My name is Mateusz</h1>
 
 <div align="center">
-<img src="https://img.shields.io/badge/LINKEDIN-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/LINKEDIN-BLUE?style=for-the-badge&logoColor=white" alt="Portfolio" />
 </div>
 
 <!--
