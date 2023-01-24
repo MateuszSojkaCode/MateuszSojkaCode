@@ -3,9 +3,11 @@
 <h2 align="center">About me</h2>
 <p>I am selftaught frontend developer, I went through several Udemy courses where I learn technologies like <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-css3-1572B6?&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?&logo=javascript&logoColor=black" />, covered topics on UI/UX, SEO for Web developers and Responsive Web Design (RWD). But I'm aweare that there is still a lot to learn. Currenlty I looking for my first position as a Fron-end Developer. <br>
+<img src="https://img.shields.io/badge/-javascript-F7DF1E?&logo=javascript&logoColor=black" />, covered topics on UI/UX, SEO for Web developers and Responsive Web Design (RWD). But I'm aweare that there is still a lot to learn. Currenlty I looking for my first position as a Front-end Developer. <br>
   
 In my free time besides coding I like to draw, mostly characters from video games and movies. And from time to time I will create some small motion graphic project in After Effects.  
+  
+<br>  
 
 <div align="center">  
 <h2 align="center">Technologies I am using</h2>  
@@ -28,11 +30,14 @@ In my free time besides coding I like to draw, mostly characters from video game
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszSojkaCode&layout=compact&theme=radical" width="50%"/>
  </div>
  
+ <br>
+ 
+ <h2 align="center">Projects I've been workin on</h2>
  <table><tr><td valign="top" width="50%">  
   
   <h3 align="center">Tropical paradise</h3>
   <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/Tropical-Paradise/blob/master/src/img/TP_thumnail.jpg" width="100%" max-height="100">
+    <img src="https://github.com/MateuszSojkaCode/Tropical-Paradise/blob/master/src/img/TR_thumbnail.jpg" width="100%">
   </div>  
   
  </td><td valign="top" width="50%">  
