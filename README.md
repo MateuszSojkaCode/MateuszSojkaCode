@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszSojkaCode&layout=compact&theme=radical" width="500" />
  </div>
 <!--
 **MateuszSojkaCode/MateuszSojkaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
