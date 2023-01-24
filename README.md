@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, My name is Mateusz</h1>
 
-<img src="https://img.shields.io/badge/LINKEDIN-informational?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-informational?style=for-the-badge&logo=linkedin&logoColor=white">
 
 <!--
 **MateuszSojkaCode/MateuszSojkaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
