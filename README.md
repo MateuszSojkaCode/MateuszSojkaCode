@@ -54,6 +54,18 @@ In my free time besides coding I like to draw, mostly characters from video game
     <a href="https://mateuszsojkacode.github.io/AmberWatch/">site</a>
   </div>  
    
+ </tr></tr> 
+ 
+ </td><td valign="top" width="50%">  
+    
+  <h3 align="center">Amber Watch</h3>
+  <div align="center">
+    <img src="https://github.com/MateuszSojkaCode/AmberWatch/blob/master/src/img/AmberWatch-ThumNail.jpg" width="100%">
+    <a href="https://github.com/MateuszSojkaCode/AmberWatch">code</a>
+    <span> | </span>
+    <a href="https://mateuszsojkacode.github.io/AmberWatch/">site</a>
+  </div>  
+   
  </tr></tr></table> 
  
  </div>
