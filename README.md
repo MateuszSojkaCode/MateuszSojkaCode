@@ -37,7 +37,7 @@ In my free time besides coding I like to draw, mostly characters from video game
   
   <h3 align="center">Tsunami</h3>
   <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/TsunamiProject/blob/master/src/img/Tsunami%20Thumnail.png" width="100%">
+    <img src="https://github.com/MateuszSojkaCode/TsunamiProject/blob/master/src/img/Tsunami%20Thumnail.png" width="50%">
     <a href="https://github.com/MateuszSojkaCode/Tsunami">code</a>
     <span> | </span>
     <a href="https://mateuszsojkacode.github.io/TsunamiProject/">site</a>
