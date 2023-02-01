@@ -35,14 +35,16 @@ In my free time besides coding I like to draw, mostly characters from video game
  <h2 align="center">Projects I've been workin on</h2>
  <table><tr><td valign="top" width="50%">  
   
-     <h3 align="center">Tropical paradise</h3>
-    <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/Tropical-Paradise/blob/master/src/img/TR_thumbnail.jpg" width="100%">
-    <a href="https://github.com/MateuszSojkaCode/Tropical-Paradise">code</a>
+  <h3 align="center">Tsunami</h3>
+  <div align="center">
+    <img src="https://github.com/MateuszSojkaCode/TsunamiProject/blob/master/src/img/Tsunami%20Thumnail.png" width="100%">
+    <a href="https://github.com/MateuszSojkaCode/TsunamiProject">code</a>
     <span> | </span>
-    <a href="https://mateuszsojkacode.github.io/Tropical-Paradise/">site</a>
+    <a href="https://mateuszsojkacode.github.io/TsunamiProject/">site</a>
+  </div>  
   
- </td><td valign="top" width="50%">  
+ </td>
+ <td valign="top" width="50%">  
     
   <h3 align="center">Amber Watch</h3>
   <div align="center">
@@ -51,20 +53,25 @@ In my free time besides coding I like to draw, mostly characters from video game
     <span> | </span>
     <a href="https://mateuszsojkacode.github.io/AmberWatch/">site</a>
   </div>  
+  </td>   
    
- </tr></tr> 
- 
- </td><td valign="top" width="50%">      
+ </tr>
   
-
-    
-  </div> 
+ <tr><td valign="top" width="50%"> 
    
- </tr></tr> 
+  <h3 align="center">Amber Watch</h3>
+  <div align="center">
+    <img src="https://github.com/MateuszSojkaCode/Tropical-Paradise/blob/master/src/img/TR_thumbnail.jpg" width="100%">
+    <a href="https://github.com/MateuszSojkaCode/Tropical-Paradise">code</a>
+    <span> | </span>
+    <a href="https://mateuszsojkacode.github.io/Tropical-Paradise/">site</a>
+  </div>  
+   
+ </td></tr>
  
  </table> 
  
- </div>
+
 <!--
 **MateuszSojkaCode/MateuszSojkaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
