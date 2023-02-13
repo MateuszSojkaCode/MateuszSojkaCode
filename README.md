@@ -75,7 +75,7 @@ In my free time besides coding I like to draw with pencils, colour pencils and m
  <td valign="top" width="40%">    
    <h3 align="center">Amber Watch</h3>
    <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/AmberWatch/blob/master/src/img/AmberWatch-ThumNail.jpg" width="90%" aligh="center">
+    <img src="https://github.com/MateuszSojkaCode/AmberWatch/blob/master/src/img/AM_thumbnail.jpg" width="90%" aligh="center">
      <br>
     <a href="https://github.com/MateuszSojkaCode/AmberWatch">code</a>
     <span> | </span>
