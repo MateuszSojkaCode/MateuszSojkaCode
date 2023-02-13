@@ -38,7 +38,7 @@ In my free time besides coding I like to draw with pencils, colour pencils and m
   
   <h3 align="center">Everyday</h3>
   <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/Everyday/blob/master/src/img/Everyday_thumbnail.jpg" width="90%" aligh="center">
+    <img src="https://github.com/MateuszSojkaCode/Everyday/blob/master/src/img/ED_thumbnail.jpg" width="90%" aligh="center">
     <br>
     <a href="https://github.com/MateuszSojkaCode/Everyday">code</a>
     <span> | </span>
@@ -50,7 +50,7 @@ In my free time besides coding I like to draw with pencils, colour pencils and m
     
   <h3 align="center">Tsunami</h3>
   <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/TsunamiProject/blob/master/src/img/Tsunami%20Thumnail.png" width="90%" aligh="center">
+    <img src="https://github.com/MateuszSojkaCode/TsunamiProject/blob/master/files/TS_thumbnail.jpg" width="90%" aligh="center">
     <br>
     <a href="https://github.com/MateuszSojkaCode/TsunamiProject">code</a>
     <span> | </span>
