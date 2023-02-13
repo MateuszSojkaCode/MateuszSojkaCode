@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/-css3-1572B6?&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&logo=javascript&logoColor=black" />, covered topics on UI/UX, SEO for Web developers and Responsive Web Design (RWD). But I'm aweare that there is still a lot to learn. Currenlty I looking for my first position as a Front-end Developer. <br>
   
-In my free time besides coding I like to draw, mostly characters from video games and movies. And from time to time I will create some small motion graphic project in After Effects.  
+In my free time besides coding I like to draw with pencils, colour pencils and markers. I'm more a traditional artist. And from time to time I like to create some small motion graphic project in After Effects.  
   
 <br>  
 
@@ -26,6 +26,7 @@ In my free time besides coding I like to draw, mostly characters from video game
 </div>
 
 <br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszSojkaCode&layout=compact&theme=radical" width="50%"/>
  </div>
@@ -33,22 +34,24 @@ In my free time besides coding I like to draw, mostly characters from video game
  <br>
  
  <h2 align="center">Projects I've been workin on</h2>
- <table><tr><td valign="top" width="50%">  
+ <table><tr><td valign="top" width="40%">  
   
   <h3 align="center">Everyday</h3>
   <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/Everyday/blob/master/src/img/Everyday_thumbnail.jpg" width="100%">
+    <img src="https://github.com/MateuszSojkaCode/Everyday/blob/master/src/img/Everyday_thumbnail.jpg" width="90%" aligh="center">
+    <br>
     <a href="https://github.com/MateuszSojkaCode/Everyday">code</a>
     <span> | </span>
     <a href="https://mateuszsojkacode.github.io/Everyday/">site</a>
   </div>  
   
  </td>
- <td valign="top" width="50%">  
+ <td valign="top" width="40%">  
     
   <h3 align="center">Tsunami</h3>
   <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/TsunamiProject/blob/master/src/img/Tsunami%20Thumnail.png" width="100%">
+    <img src="https://github.com/MateuszSojkaCode/TsunamiProject/blob/master/src/img/Tsunami%20Thumnail.png" width="90%" aligh="center">
+    <br>
     <a href="https://github.com/MateuszSojkaCode/TsunamiProject">code</a>
     <span> | </span>
     <a href="https://mateuszsojkacode.github.io/TsunamiProject/">site</a>
@@ -57,21 +60,23 @@ In my free time besides coding I like to draw, mostly characters from video game
    
  </tr>
   
- <tr><td valign="top" width="50%"> 
+ <tr><td valign="top" width="40%"> 
    
-  <h3 align="center">Amber Watch</h3>
+  <h3 align="center">Tropical Paradise</h3>
   <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/Tropical-Paradise/blob/master/src/img/TR_thumbnail.jpg" width="100%">
+    <img src="https://github.com/MateuszSojkaCode/Tropical-Paradise/blob/master/src/img/TR_thumbnail.jpg" width="90%" aligh="center">
+    <br>
     <a href="https://github.com/MateuszSojkaCode/Tropical-Paradise">code</a>
     <span> | </span>
     <a href="https://mateuszsojkacode.github.io/Tropical-Paradise/">site</a>
   </div>  
    
  </td>
- <td valign="top" width="50%">    
+ <td valign="top" width="40%">    
    <h3 align="center">Amber Watch</h3>
    <div align="center">
-    <img src="https://github.com/MateuszSojkaCode/AmberWatch/blob/master/src/img/AmberWatch-ThumNail.jpg" width="100%">
+    <img src="https://github.com/MateuszSojkaCode/AmberWatch/blob/master/src/img/AmberWatch-ThumNail.jpg" width="90%" aligh="center">
+     <br>
     <a href="https://github.com/MateuszSojkaCode/AmberWatch">code</a>
     <span> | </span>
     <a href="https://mateuszsojkacode.github.io/AmberWatch/">site</a>
